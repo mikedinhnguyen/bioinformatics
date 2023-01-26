@@ -1,0 +1,8 @@
+City 1: Dunedin
+City 2: London
+City 3: Phoenix
+City 4: Venice
+City 5: Singapore
+City 6: Tokyo
+City 7: Beijing
+City 8: Victoria

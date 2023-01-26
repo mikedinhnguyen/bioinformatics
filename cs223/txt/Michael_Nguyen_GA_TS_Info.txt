@@ -1,0 +1,2286 @@
+1. Population Size: 100 for iteration 1
+Average fitness score = 38336.53
+Median fitness score = 38951
+STD of fitness scores = 6189.228917648022
+Size of the selected subset of the population = 50
+
+2. Population Size: 100 for iteration 2
+Average fitness score = 38134.43
+Median fitness score = 38683
+STD of fitness scores = 6066.947524725904
+Size of the selected subset of the population = 50
+
+3. Population Size: 100 for iteration 3
+Average fitness score = 37966.42
+Median fitness score = 38456
+STD of fitness scores = 6013.27974373084
+Size of the selected subset of the population = 50
+
+4. Population Size: 100 for iteration 4
+Average fitness score = 37879.06
+Median fitness score = 38456
+STD of fitness scores = 5970.913631289874
+Size of the selected subset of the population = 49
+
+5. Population Size: 100 for iteration 5
+Average fitness score = 37790.95
+Median fitness score = 38455
+STD of fitness scores = 5990.380466112973
+Size of the selected subset of the population = 45
+
+6. Population Size: 100 for iteration 6
+Average fitness score = 37683.12
+Median fitness score = 38313
+STD of fitness scores = 6015.842296047087
+Size of the selected subset of the population = 48
+
+7. Population Size: 100 for iteration 7
+Average fitness score = 37607.95
+Median fitness score = 38306
+STD of fitness scores = 6026.181147268722
+Size of the selected subset of the population = 48
+
+8. Population Size: 100 for iteration 8
+Average fitness score = 37514.59
+Median fitness score = 38306
+STD of fitness scores = 6008.667240072394
+Size of the selected subset of the population = 47
+
+9. Population Size: 100 for iteration 9
+Average fitness score = 37416.83
+Median fitness score = 38306
+STD of fitness scores = 6030.727398134164
+Size of the selected subset of the population = 47
+
+10. Population Size: 100 for iteration 10
+Average fitness score = 37323.23
+Median fitness score = 38257
+STD of fitness scores = 6055.285347820973
+Size of the selected subset of the population = 47
+
+11. Population Size: 100 for iteration 11
+Average fitness score = 37237.42
+Median fitness score = 38257
+STD of fitness scores = 6067.608132376448
+Size of the selected subset of the population = 47
+
+12. Population Size: 100 for iteration 12
+Average fitness score = 37172.75
+Median fitness score = 38120
+STD of fitness scores = 6059.2934121100625
+Size of the selected subset of the population = 47
+
+13. Population Size: 100 for iteration 13
+Average fitness score = 37057.9
+Median fitness score = 37751
+STD of fitness scores = 6040.75097595782
+Size of the selected subset of the population = 48
+
+14. Population Size: 100 for iteration 14
+Average fitness score = 36979.7
+Median fitness score = 37751
+STD of fitness scores = 6036.843225669616
+Size of the selected subset of the population = 50
+
+15. Population Size: 100 for iteration 15
+Average fitness score = 36893.39
+Median fitness score = 37751
+STD of fitness scores = 6026.997599011041
+Size of the selected subset of the population = 49
+
+16. Population Size: 100 for iteration 16
+Average fitness score = 36814.9
+Median fitness score = 37751
+STD of fitness scores = 6021.362498084079
+Size of the selected subset of the population = 50
+
+17. Population Size: 100 for iteration 17
+Average fitness score = 36710.05
+Median fitness score = 37455
+STD of fitness scores = 6052.584048498741
+Size of the selected subset of the population = 50
+
+18. Population Size: 100 for iteration 18
+Average fitness score = 36643.66
+Median fitness score = 37313
+STD of fitness scores = 6046.304376270273
+Size of the selected subset of the population = 50
+
+19. Population Size: 100 for iteration 19
+Average fitness score = 36535.71
+Median fitness score = 37313
+STD of fitness scores = 6054.869337386917
+Size of the selected subset of the population = 48
+
+20. Population Size: 100 for iteration 20
+Average fitness score = 36462.18
+Median fitness score = 37311
+STD of fitness scores = 6083.73258694816
+Size of the selected subset of the population = 50
+
+21. Population Size: 100 for iteration 21
+Average fitness score = 36369.43
+Median fitness score = 37286
+STD of fitness scores = 6072.6359365001235
+Size of the selected subset of the population = 50
+
+22. Population Size: 100 for iteration 22
+Average fitness score = 36315.83
+Median fitness score = 37286
+STD of fitness scores = 6053.423612754566
+Size of the selected subset of the population = 50
+
+23. Population Size: 100 for iteration 23
+Average fitness score = 36256.98
+Median fitness score = 37286
+STD of fitness scores = 6058.038903236865
+Size of the selected subset of the population = 49
+
+24. Population Size: 100 for iteration 24
+Average fitness score = 36139.68
+Median fitness score = 37286
+STD of fitness scores = 6146.962061330324
+Size of the selected subset of the population = 49
+
+25. Population Size: 100 for iteration 25
+Average fitness score = 36053.78
+Median fitness score = 37128
+STD of fitness scores = 6201.33175429832
+Size of the selected subset of the population = 49
+
+26. Population Size: 100 for iteration 26
+Average fitness score = 35975.13
+Median fitness score = 37128
+STD of fitness scores = 6238.337846248743
+Size of the selected subset of the population = 50
+
+27. Population Size: 100 for iteration 27
+Average fitness score = 35846.76
+Median fitness score = 37128
+STD of fitness scores = 6232.262747342989
+Size of the selected subset of the population = 50
+
+28. Population Size: 100 for iteration 28
+Average fitness score = 35761.55
+Median fitness score = 37128
+STD of fitness scores = 6220.31086198246
+Size of the selected subset of the population = 49
+
+29. Population Size: 100 for iteration 29
+Average fitness score = 35680.81
+Median fitness score = 37128
+STD of fitness scores = 6195.873181294697
+Size of the selected subset of the population = 48
+
+30. Population Size: 100 for iteration 30
+Average fitness score = 35621.47
+Median fitness score = 37128
+STD of fitness scores = 6180.561983625304
+Size of the selected subset of the population = 47
+
+31. Population Size: 100 for iteration 31
+Average fitness score = 35564.27
+Median fitness score = 37128
+STD of fitness scores = 6144.737237200825
+Size of the selected subset of the population = 48
+
+32. Population Size: 100 for iteration 32
+Average fitness score = 35517.77
+Median fitness score = 37128
+STD of fitness scores = 6125.876679135796
+Size of the selected subset of the population = 48
+
+33. Population Size: 100 for iteration 33
+Average fitness score = 35446.97
+Median fitness score = 37053
+STD of fitness scores = 6110.669337033845
+Size of the selected subset of the population = 49
+
+34. Population Size: 100 for iteration 34
+Average fitness score = 35375.71
+Median fitness score = 37053
+STD of fitness scores = 6067.112716361078
+Size of the selected subset of the population = 50
+
+35. Population Size: 100 for iteration 35
+Average fitness score = 35303.67
+Median fitness score = 37053
+STD of fitness scores = 6070.01946488983
+Size of the selected subset of the population = 50
+
+36. Population Size: 100 for iteration 36
+Average fitness score = 35254.17
+Median fitness score = 36959
+STD of fitness scores = 6048.602885774366
+Size of the selected subset of the population = 47
+
+37. Population Size: 100 for iteration 37
+Average fitness score = 35128.99
+Median fitness score = 36662
+STD of fitness scores = 6019.375378674596
+Size of the selected subset of the population = 50
+
+38. Population Size: 100 for iteration 38
+Average fitness score = 35047.42
+Median fitness score = 36662
+STD of fitness scores = 6032.137608248711
+Size of the selected subset of the population = 48
+
+39. Population Size: 100 for iteration 39
+Average fitness score = 34971.26
+Median fitness score = 36662
+STD of fitness scores = 6012.587951216274
+Size of the selected subset of the population = 48
+
+40. Population Size: 100 for iteration 40
+Average fitness score = 34877.12
+Median fitness score = 36662
+STD of fitness scores = 5983.63218512541
+Size of the selected subset of the population = 49
+
+41. Population Size: 100 for iteration 41
+Average fitness score = 34781.38
+Median fitness score = 36527
+STD of fitness scores = 5981.112024202574
+Size of the selected subset of the population = 47
+
+42. Population Size: 100 for iteration 42
+Average fitness score = 34703.96
+Median fitness score = 36527
+STD of fitness scores = 5992.7235168910465
+Size of the selected subset of the population = 47
+
+43. Population Size: 100 for iteration 43
+Average fitness score = 34624.01
+Median fitness score = 36527
+STD of fitness scores = 5961.326573427303
+Size of the selected subset of the population = 46
+
+44. Population Size: 100 for iteration 44
+Average fitness score = 34556.73
+Median fitness score = 36219
+STD of fitness scores = 5943.277842421825
+Size of the selected subset of the population = 46
+
+45. Population Size: 100 for iteration 45
+Average fitness score = 34473.16
+Median fitness score = 35474
+STD of fitness scores = 5902.115703044224
+Size of the selected subset of the population = 45
+
+46. Population Size: 100 for iteration 46
+Average fitness score = 34396.31
+Median fitness score = 35474
+STD of fitness scores = 5872.2459277743665
+Size of the selected subset of the population = 45
+
+47. Population Size: 100 for iteration 47
+Average fitness score = 34342.4
+Median fitness score = 35474
+STD of fitness scores = 5861.993743297979
+Size of the selected subset of the population = 43
+
+48. Population Size: 100 for iteration 48
+Average fitness score = 34278.74
+Median fitness score = 35394
+STD of fitness scores = 5853.6280619179015
+Size of the selected subset of the population = 44
+
+49. Population Size: 100 for iteration 49
+Average fitness score = 34207.67
+Median fitness score = 35394
+STD of fitness scores = 5871.387327763879
+Size of the selected subset of the population = 46
+
+50. Population Size: 100 for iteration 50
+Average fitness score = 34115.86
+Median fitness score = 35162
+STD of fitness scores = 5816.103246169295
+Size of the selected subset of the population = 45
+
+51. Population Size: 100 for iteration 51
+Average fitness score = 34087.38
+Median fitness score = 35162
+STD of fitness scores = 5811.681650926621
+Size of the selected subset of the population = 45
+
+52. Population Size: 100 for iteration 52
+Average fitness score = 34014.27
+Median fitness score = 35162
+STD of fitness scores = 5819.6610471866325
+Size of the selected subset of the population = 47
+
+53. Population Size: 100 for iteration 53
+Average fitness score = 33958.99
+Median fitness score = 35130
+STD of fitness scores = 5809.480401486223
+Size of the selected subset of the population = 46
+
+54. Population Size: 100 for iteration 54
+Average fitness score = 33861.22
+Median fitness score = 35130
+STD of fitness scores = 5858.637592133481
+Size of the selected subset of the population = 49
+
+55. Population Size: 100 for iteration 55
+Average fitness score = 33764.09
+Median fitness score = 35130
+STD of fitness scores = 5880.086966124899
+Size of the selected subset of the population = 47
+
+56. Population Size: 100 for iteration 56
+Average fitness score = 33700.14
+Median fitness score = 35130
+STD of fitness scores = 5865.2930124262475
+Size of the selected subset of the population = 48
+
+57. Population Size: 100 for iteration 57
+Average fitness score = 33637.4
+Median fitness score = 34857
+STD of fitness scores = 5860.872731233564
+Size of the selected subset of the population = 48
+
+58. Population Size: 100 for iteration 58
+Average fitness score = 33570.67
+Median fitness score = 34819
+STD of fitness scores = 5857.083992056116
+Size of the selected subset of the population = 48
+
+59. Population Size: 100 for iteration 59
+Average fitness score = 33485.78
+Median fitness score = 34711
+STD of fitness scores = 5849.830798865343
+Size of the selected subset of the population = 47
+
+60. Population Size: 100 for iteration 60
+Average fitness score = 33414.91
+Median fitness score = 34711
+STD of fitness scores = 5855.413960462902
+Size of the selected subset of the population = 46
+
+61. Population Size: 100 for iteration 61
+Average fitness score = 33323.02
+Median fitness score = 34711
+STD of fitness scores = 5920.824265201082
+Size of the selected subset of the population = 46
+
+62. Population Size: 100 for iteration 62
+Average fitness score = 33269.62
+Median fitness score = 34669
+STD of fitness scores = 5910.985989603843
+Size of the selected subset of the population = 43
+
+63. Population Size: 100 for iteration 63
+Average fitness score = 33208.48
+Median fitness score = 34669
+STD of fitness scores = 5888.549468076141
+Size of the selected subset of the population = 45
+
+64. Population Size: 100 for iteration 64
+Average fitness score = 33154.87
+Median fitness score = 34669
+STD of fitness scores = 5882.591474654412
+Size of the selected subset of the population = 41
+
+65. Population Size: 100 for iteration 65
+Average fitness score = 33112.27
+Median fitness score = 34669
+STD of fitness scores = 5892.900470622821
+Size of the selected subset of the population = 43
+
+66. Population Size: 100 for iteration 66
+Average fitness score = 33080.13
+Median fitness score = 34669
+STD of fitness scores = 5875.879944684322
+Size of the selected subset of the population = 46
+
+67. Population Size: 100 for iteration 67
+Average fitness score = 33034.15
+Median fitness score = 34629
+STD of fitness scores = 5873.541640400206
+Size of the selected subset of the population = 47
+
+68. Population Size: 100 for iteration 68
+Average fitness score = 32999.5
+Median fitness score = 34629
+STD of fitness scores = 5853.267661155716
+Size of the selected subset of the population = 46
+
+69. Population Size: 100 for iteration 69
+Average fitness score = 32961.98
+Median fitness score = 34539
+STD of fitness scores = 5851.591367734892
+Size of the selected subset of the population = 45
+
+70. Population Size: 100 for iteration 70
+Average fitness score = 32915.39
+Median fitness score = 34539
+STD of fitness scores = 5834.617138201438
+Size of the selected subset of the population = 45
+
+71. Population Size: 100 for iteration 71
+Average fitness score = 32867.02
+Median fitness score = 34059
+STD of fitness scores = 5824.118966587967
+Size of the selected subset of the population = 44
+
+72. Population Size: 100 for iteration 72
+Average fitness score = 32820.45
+Median fitness score = 34059
+STD of fitness scores = 5816.182594036377
+Size of the selected subset of the population = 43
+
+73. Population Size: 100 for iteration 73
+Average fitness score = 32784.56
+Median fitness score = 34059
+STD of fitness scores = 5800.60386149406
+Size of the selected subset of the population = 45
+
+74. Population Size: 100 for iteration 74
+Average fitness score = 32733.53
+Median fitness score = 33965
+STD of fitness scores = 5780.802389964406
+Size of the selected subset of the population = 46
+
+75. Population Size: 100 for iteration 75
+Average fitness score = 32696.65
+Median fitness score = 33965
+STD of fitness scores = 5764.928000943342
+Size of the selected subset of the population = 45
+
+76. Population Size: 100 for iteration 76
+Average fitness score = 32656.7
+Median fitness score = 33965
+STD of fitness scores = 5763.322928816169
+Size of the selected subset of the population = 44
+
+77. Population Size: 100 for iteration 77
+Average fitness score = 32624.99
+Median fitness score = 33965
+STD of fitness scores = 5754.057453807459
+Size of the selected subset of the population = 40
+
+78. Population Size: 100 for iteration 78
+Average fitness score = 32572.12
+Median fitness score = 33965
+STD of fitness scores = 5752.927360724953
+Size of the selected subset of the population = 44
+
+79. Population Size: 100 for iteration 79
+Average fitness score = 32534.57
+Median fitness score = 33965
+STD of fitness scores = 5743.440174273129
+Size of the selected subset of the population = 42
+
+80. Population Size: 100 for iteration 80
+Average fitness score = 32495.12
+Median fitness score = 33796
+STD of fitness scores = 5729.740077803872
+Size of the selected subset of the population = 42
+
+81. Population Size: 100 for iteration 81
+Average fitness score = 32457.98
+Median fitness score = 33796
+STD of fitness scores = 5739.2456636281695
+Size of the selected subset of the population = 42
+
+82. Population Size: 100 for iteration 82
+Average fitness score = 32405.14
+Median fitness score = 33380
+STD of fitness scores = 5721.4763458535435
+Size of the selected subset of the population = 45
+
+83. Population Size: 100 for iteration 83
+Average fitness score = 32363.72
+Median fitness score = 33380
+STD of fitness scores = 5714.961161051161
+Size of the selected subset of the population = 48
+
+84. Population Size: 100 for iteration 84
+Average fitness score = 32306.92
+Median fitness score = 33338
+STD of fitness scores = 5702.910907757387
+Size of the selected subset of the population = 47
+
+85. Population Size: 100 for iteration 85
+Average fitness score = 32267.18
+Median fitness score = 33338
+STD of fitness scores = 5697.8682517005755
+Size of the selected subset of the population = 46
+
+86. Population Size: 100 for iteration 86
+Average fitness score = 32199.82
+Median fitness score = 33338
+STD of fitness scores = 5702.171814459484
+Size of the selected subset of the population = 47
+
+87. Population Size: 100 for iteration 87
+Average fitness score = 32159.71
+Median fitness score = 32693
+STD of fitness scores = 5683.011934918335
+Size of the selected subset of the population = 46
+
+88. Population Size: 100 for iteration 88
+Average fitness score = 32118.45
+Median fitness score = 32693
+STD of fitness scores = 5669.78693839263
+Size of the selected subset of the population = 44
+
+89. Population Size: 100 for iteration 89
+Average fitness score = 32081.29
+Median fitness score = 32693
+STD of fitness scores = 5667.864301774817
+Size of the selected subset of the population = 46
+
+90. Population Size: 100 for iteration 90
+Average fitness score = 32038.94
+Median fitness score = 32693
+STD of fitness scores = 5650.948274440675
+Size of the selected subset of the population = 47
+
+91. Population Size: 100 for iteration 91
+Average fitness score = 32003.0
+Median fitness score = 32693
+STD of fitness scores = 5627.556966761102
+Size of the selected subset of the population = 47
+
+92. Population Size: 100 for iteration 92
+Average fitness score = 31957.63
+Median fitness score = 32693
+STD of fitness scores = 5606.977488690932
+Size of the selected subset of the population = 47
+
+93. Population Size: 100 for iteration 93
+Average fitness score = 31901.45
+Median fitness score = 32693
+STD of fitness scores = 5584.249041823897
+Size of the selected subset of the population = 45
+
+94. Population Size: 100 for iteration 94
+Average fitness score = 31855.64
+Median fitness score = 32648
+STD of fitness scores = 5556.022755442053
+Size of the selected subset of the population = 47
+
+95. Population Size: 100 for iteration 95
+Average fitness score = 31809.36
+Median fitness score = 32648
+STD of fitness scores = 5529.73199072911
+Size of the selected subset of the population = 45
+
+96. Population Size: 100 for iteration 96
+Average fitness score = 31751.65
+Median fitness score = 32648
+STD of fitness scores = 5493.813698795283
+Size of the selected subset of the population = 42
+
+97. Population Size: 100 for iteration 97
+Average fitness score = 31708.35
+Median fitness score = 32648
+STD of fitness scores = 5488.5370507149455
+Size of the selected subset of the population = 43
+
+98. Population Size: 100 for iteration 98
+Average fitness score = 31662.35
+Median fitness score = 32266
+STD of fitness scores = 5482.639242014817
+Size of the selected subset of the population = 41
+
+99. Population Size: 100 for iteration 99
+Average fitness score = 31613.17
+Median fitness score = 32266
+STD of fitness scores = 5469.939177648296
+Size of the selected subset of the population = 40
+
+100. Population Size: 100 for iteration 100
+Average fitness score = 31565.77
+Median fitness score = 31964
+STD of fitness scores = 5444.04667309979
+Size of the selected subset of the population = 42
+
+101. Population Size: 100 for iteration 101
+Average fitness score = 31523.15
+Median fitness score = 31964
+STD of fitness scores = 5401.589977997593
+Size of the selected subset of the population = 42
+
+102. Population Size: 100 for iteration 102
+Average fitness score = 31469.17
+Median fitness score = 31964
+STD of fitness scores = 5387.557759056669
+Size of the selected subset of the population = 42
+
+103. Population Size: 100 for iteration 103
+Average fitness score = 31437.72
+Median fitness score = 31964
+STD of fitness scores = 5366.098654450264
+Size of the selected subset of the population = 42
+
+104. Population Size: 100 for iteration 104
+Average fitness score = 31382.85
+Median fitness score = 31964
+STD of fitness scores = 5323.28570095955
+Size of the selected subset of the population = 41
+
+105. Population Size: 100 for iteration 105
+Average fitness score = 31334.09
+Median fitness score = 31849
+STD of fitness scores = 5294.778483925308
+Size of the selected subset of the population = 41
+
+106. Population Size: 100 for iteration 106
+Average fitness score = 31312.0
+Median fitness score = 31849
+STD of fitness scores = 5277.98803302619
+Size of the selected subset of the population = 41
+
+107. Population Size: 100 for iteration 107
+Average fitness score = 31268.82
+Median fitness score = 31849
+STD of fitness scores = 5265.600404876768
+Size of the selected subset of the population = 42
+
+108. Population Size: 100 for iteration 108
+Average fitness score = 31235.0
+Median fitness score = 31849
+STD of fitness scores = 5268.97270764799
+Size of the selected subset of the population = 41
+
+109. Population Size: 100 for iteration 109
+Average fitness score = 31193.37
+Median fitness score = 31849
+STD of fitness scores = 5258.865846647003
+Size of the selected subset of the population = 41
+
+110. Population Size: 100 for iteration 110
+Average fitness score = 31162.41
+Median fitness score = 31723
+STD of fitness scores = 5242.058411135608
+Size of the selected subset of the population = 39
+
+111. Population Size: 100 for iteration 111
+Average fitness score = 31131.54
+Median fitness score = 31723
+STD of fitness scores = 5230.492796799718
+Size of the selected subset of the population = 38
+
+112. Population Size: 100 for iteration 112
+Average fitness score = 31082.45
+Median fitness score = 31723
+STD of fitness scores = 5208.945315561015
+Size of the selected subset of the population = 39
+
+113. Population Size: 100 for iteration 113
+Average fitness score = 31053.77
+Median fitness score = 31723
+STD of fitness scores = 5215.501091307943
+Size of the selected subset of the population = 40
+
+114. Population Size: 100 for iteration 114
+Average fitness score = 31014.61
+Median fitness score = 31428
+STD of fitness scores = 5216.957859807773
+Size of the selected subset of the population = 41
+
+115. Population Size: 100 for iteration 115
+Average fitness score = 30969.53
+Median fitness score = 31428
+STD of fitness scores = 5187.476594967281
+Size of the selected subset of the population = 41
+
+116. Population Size: 100 for iteration 116
+Average fitness score = 30943.49
+Median fitness score = 31428
+STD of fitness scores = 5173.525729581952
+Size of the selected subset of the population = 42
+
+117. Population Size: 100 for iteration 117
+Average fitness score = 30914.1
+Median fitness score = 31428
+STD of fitness scores = 5186.025600134705
+Size of the selected subset of the population = 40
+
+118. Population Size: 100 for iteration 118
+Average fitness score = 30883.12
+Median fitness score = 31428
+STD of fitness scores = 5165.901494229329
+Size of the selected subset of the population = 42
+
+119. Population Size: 100 for iteration 119
+Average fitness score = 30856.89
+Median fitness score = 31428
+STD of fitness scores = 5155.116830221437
+Size of the selected subset of the population = 43
+
+120. Population Size: 100 for iteration 120
+Average fitness score = 30826.77
+Median fitness score = 31428
+STD of fitness scores = 5132.16448490313
+Size of the selected subset of the population = 41
+
+121. Population Size: 100 for iteration 121
+Average fitness score = 30791.69
+Median fitness score = 31428
+STD of fitness scores = 5108.987050356173
+Size of the selected subset of the population = 40
+
+122. Population Size: 100 for iteration 122
+Average fitness score = 30770.88
+Median fitness score = 31428
+STD of fitness scores = 5091.060894937282
+Size of the selected subset of the population = 39
+
+123. Population Size: 100 for iteration 123
+Average fitness score = 30726.45
+Median fitness score = 31428
+STD of fitness scores = 5068.694471354473
+Size of the selected subset of the population = 39
+
+124. Population Size: 100 for iteration 124
+Average fitness score = 30668.34
+Median fitness score = 31209
+STD of fitness scores = 5031.435896060052
+Size of the selected subset of the population = 40
+
+125. Population Size: 100 for iteration 125
+Average fitness score = 30640.56
+Median fitness score = 31209
+STD of fitness scores = 5023.0694292746075
+Size of the selected subset of the population = 38
+
+126. Population Size: 100 for iteration 126
+Average fitness score = 30601.06
+Median fitness score = 31209
+STD of fitness scores = 4995.2974205342325
+Size of the selected subset of the population = 40
+
+127. Population Size: 100 for iteration 127
+Average fitness score = 30577.5
+Median fitness score = 31209
+STD of fitness scores = 4987.386551708381
+Size of the selected subset of the population = 42
+
+128. Population Size: 100 for iteration 128
+Average fitness score = 30556.32
+Median fitness score = 31209
+STD of fitness scores = 4979.883086291416
+Size of the selected subset of the population = 41
+
+129. Population Size: 100 for iteration 129
+Average fitness score = 30532.12
+Median fitness score = 31209
+STD of fitness scores = 4963.803604885953
+Size of the selected subset of the population = 41
+
+130. Population Size: 100 for iteration 130
+Average fitness score = 30476.35
+Median fitness score = 31209
+STD of fitness scores = 4933.7372999532
+Size of the selected subset of the population = 41
+
+131. Population Size: 100 for iteration 131
+Average fitness score = 30439.52
+Median fitness score = 31209
+STD of fitness scores = 4912.1208867104
+Size of the selected subset of the population = 40
+
+132. Population Size: 100 for iteration 132
+Average fitness score = 30416.58
+Median fitness score = 31209
+STD of fitness scores = 4904.634038757776
+Size of the selected subset of the population = 41
+
+133. Population Size: 100 for iteration 133
+Average fitness score = 30390.85
+Median fitness score = 31209
+STD of fitness scores = 4897.1997056553355
+Size of the selected subset of the population = 41
+
+134. Population Size: 100 for iteration 134
+Average fitness score = 30356.8
+Median fitness score = 31209
+STD of fitness scores = 4880.09324716343
+Size of the selected subset of the population = 41
+
+135. Population Size: 100 for iteration 135
+Average fitness score = 30335.46
+Median fitness score = 31209
+STD of fitness scores = 4859.616278279717
+Size of the selected subset of the population = 40
+
+136. Population Size: 100 for iteration 136
+Average fitness score = 30304.27
+Median fitness score = 30606
+STD of fitness scores = 4845.222282493103
+Size of the selected subset of the population = 37
+
+137. Population Size: 100 for iteration 137
+Average fitness score = 30274.02
+Median fitness score = 30606
+STD of fitness scores = 4836.4601818380615
+Size of the selected subset of the population = 38
+
+138. Population Size: 100 for iteration 138
+Average fitness score = 30248.35
+Median fitness score = 30606
+STD of fitness scores = 4814.920363680572
+Size of the selected subset of the population = 39
+
+139. Population Size: 100 for iteration 139
+Average fitness score = 30223.77
+Median fitness score = 30606
+STD of fitness scores = 4801.945691208214
+Size of the selected subset of the population = 39
+
+140. Population Size: 100 for iteration 140
+Average fitness score = 30192.58
+Median fitness score = 30606
+STD of fitness scores = 4776.087101763991
+Size of the selected subset of the population = 38
+
+141. Population Size: 100 for iteration 141
+Average fitness score = 30159.29
+Median fitness score = 30606
+STD of fitness scores = 4764.256019579659
+Size of the selected subset of the population = 39
+
+142. Population Size: 100 for iteration 142
+Average fitness score = 30124.0
+Median fitness score = 30606
+STD of fitness scores = 4749.400166272993
+Size of the selected subset of the population = 37
+
+143. Population Size: 100 for iteration 143
+Average fitness score = 30097.89
+Median fitness score = 30606
+STD of fitness scores = 4729.466211354452
+Size of the selected subset of the population = 39
+
+144. Population Size: 100 for iteration 144
+Average fitness score = 30053.66
+Median fitness score = 30606
+STD of fitness scores = 4702.220765304046
+Size of the selected subset of the population = 39
+
+145. Population Size: 100 for iteration 145
+Average fitness score = 30017.92
+Median fitness score = 30606
+STD of fitness scores = 4678.271367015208
+Size of the selected subset of the population = 39
+
+146. Population Size: 100 for iteration 146
+Average fitness score = 29974.52
+Median fitness score = 30498
+STD of fitness scores = 4669.904066412387
+Size of the selected subset of the population = 39
+
+147. Population Size: 100 for iteration 147
+Average fitness score = 29950.9
+Median fitness score = 30498
+STD of fitness scores = 4664.694852903785
+Size of the selected subset of the population = 41
+
+148. Population Size: 100 for iteration 148
+Average fitness score = 29918.27
+Median fitness score = 30498
+STD of fitness scores = 4656.143429216323
+Size of the selected subset of the population = 42
+
+149. Population Size: 100 for iteration 149
+Average fitness score = 29892.25
+Median fitness score = 30498
+STD of fitness scores = 4639.003561971019
+Size of the selected subset of the population = 42
+
+150. Population Size: 100 for iteration 150
+Average fitness score = 29875.06
+Median fitness score = 30498
+STD of fitness scores = 4627.453067871519
+Size of the selected subset of the population = 41
+
+151. Population Size: 100 for iteration 151
+Average fitness score = 29839.4
+Median fitness score = 30498
+STD of fitness scores = 4611.739773379862
+Size of the selected subset of the population = 41
+
+152. Population Size: 100 for iteration 152
+Average fitness score = 29817.83
+Median fitness score = 30498
+STD of fitness scores = 4604.332209128725
+Size of the selected subset of the population = 40
+
+153. Population Size: 100 for iteration 153
+Average fitness score = 29802.54
+Median fitness score = 30498
+STD of fitness scores = 4603.017487288402
+Size of the selected subset of the population = 40
+
+154. Population Size: 100 for iteration 154
+Average fitness score = 29778.24
+Median fitness score = 30028
+STD of fitness scores = 4599.559810119735
+Size of the selected subset of the population = 38
+
+155. Population Size: 100 for iteration 155
+Average fitness score = 29766.3
+Median fitness score = 30028
+STD of fitness scores = 4589.729585353223
+Size of the selected subset of the population = 35
+
+156. Population Size: 100 for iteration 156
+Average fitness score = 29741.88
+Median fitness score = 30028
+STD of fitness scores = 4581.850171661614
+Size of the selected subset of the population = 34
+
+157. Population Size: 100 for iteration 157
+Average fitness score = 29735.95
+Median fitness score = 30028
+STD of fitness scores = 4582.8525530205825
+Size of the selected subset of the population = 34
+
+158. Population Size: 100 for iteration 158
+Average fitness score = 29718.14
+Median fitness score = 30028
+STD of fitness scores = 4584.554894006791
+Size of the selected subset of the population = 33
+
+159. Population Size: 100 for iteration 159
+Average fitness score = 29696.36
+Median fitness score = 30028
+STD of fitness scores = 4568.1238142395205
+Size of the selected subset of the population = 35
+
+160. Population Size: 100 for iteration 160
+Average fitness score = 29687.76
+Median fitness score = 30028
+STD of fitness scores = 4561.806467272421
+Size of the selected subset of the population = 37
+
+161. Population Size: 100 for iteration 161
+Average fitness score = 29676.48
+Median fitness score = 30028
+STD of fitness scores = 4560.282791780583
+Size of the selected subset of the population = 36
+
+162. Population Size: 100 for iteration 162
+Average fitness score = 29658.81
+Median fitness score = 30028
+STD of fitness scores = 4549.014595691927
+Size of the selected subset of the population = 35
+
+163. Population Size: 100 for iteration 163
+Average fitness score = 29650.47
+Median fitness score = 30028
+STD of fitness scores = 4544.425283873316
+Size of the selected subset of the population = 36
+
+164. Population Size: 100 for iteration 164
+Average fitness score = 29642.41
+Median fitness score = 30028
+STD of fitness scores = 4536.975829634413
+Size of the selected subset of the population = 35
+
+165. Population Size: 100 for iteration 165
+Average fitness score = 29634.64
+Median fitness score = 30028
+STD of fitness scores = 4533.643065444002
+Size of the selected subset of the population = 36
+
+166. Population Size: 100 for iteration 166
+Average fitness score = 29619.38
+Median fitness score = 30028
+STD of fitness scores = 4521.8086257692075
+Size of the selected subset of the population = 35
+
+167. Population Size: 100 for iteration 167
+Average fitness score = 29607.01
+Median fitness score = 30028
+STD of fitness scores = 4515.77780249595
+Size of the selected subset of the population = 37
+
+168. Population Size: 100 for iteration 168
+Average fitness score = 29596.62
+Median fitness score = 30028
+STD of fitness scores = 4508.565226277198
+Size of the selected subset of the population = 38
+
+169. Population Size: 100 for iteration 169
+Average fitness score = 29587.47
+Median fitness score = 29832
+STD of fitness scores = 4503.248657784554
+Size of the selected subset of the population = 38
+
+170. Population Size: 100 for iteration 170
+Average fitness score = 29579.0
+Median fitness score = 29832
+STD of fitness scores = 4496.073038516697
+Size of the selected subset of the population = 39
+
+171. Population Size: 100 for iteration 171
+Average fitness score = 29556.57
+Median fitness score = 29832
+STD of fitness scores = 4488.9813185040975
+Size of the selected subset of the population = 39
+
+172. Population Size: 100 for iteration 172
+Average fitness score = 29538.22
+Median fitness score = 29832
+STD of fitness scores = 4481.435149772466
+Size of the selected subset of the population = 39
+
+173. Population Size: 100 for iteration 173
+Average fitness score = 29528.72
+Median fitness score = 29629
+STD of fitness scores = 4473.920478289775
+Size of the selected subset of the population = 36
+
+174. Population Size: 100 for iteration 174
+Average fitness score = 29506.93
+Median fitness score = 29557
+STD of fitness scores = 4451.6556136027875
+Size of the selected subset of the population = 36
+
+175. Population Size: 100 for iteration 175
+Average fitness score = 29497.51
+Median fitness score = 29557
+STD of fitness scores = 4448.678261307089
+Size of the selected subset of the population = 36
+
+176. Population Size: 100 for iteration 176
+Average fitness score = 29488.04
+Median fitness score = 29557
+STD of fitness scores = 4450.594026678128
+Size of the selected subset of the population = 36
+
+177. Population Size: 100 for iteration 177
+Average fitness score = 29480.33
+Median fitness score = 29557
+STD of fitness scores = 4447.46700138223
+Size of the selected subset of the population = 34
+
+178. Population Size: 100 for iteration 178
+Average fitness score = 29464.83
+Median fitness score = 29557
+STD of fitness scores = 4434.752188207147
+Size of the selected subset of the population = 35
+
+179. Population Size: 100 for iteration 179
+Average fitness score = 29453.2
+Median fitness score = 29557
+STD of fitness scores = 4424.13664464662
+Size of the selected subset of the population = 36
+
+180. Population Size: 100 for iteration 180
+Average fitness score = 29439.72
+Median fitness score = 29557
+STD of fitness scores = 4414.703950585264
+Size of the selected subset of the population = 35
+
+181. Population Size: 100 for iteration 181
+Average fitness score = 29429.51
+Median fitness score = 29557
+STD of fitness scores = 4411.074077257205
+Size of the selected subset of the population = 36
+
+182. Population Size: 100 for iteration 182
+Average fitness score = 29413.64
+Median fitness score = 29557
+STD of fitness scores = 4405.220180511739
+Size of the selected subset of the population = 37
+
+183. Population Size: 100 for iteration 183
+Average fitness score = 29393.17
+Median fitness score = 29557
+STD of fitness scores = 4394.298098546444
+Size of the selected subset of the population = 38
+
+184. Population Size: 100 for iteration 184
+Average fitness score = 29383.74
+Median fitness score = 29557
+STD of fitness scores = 4388.437212042621
+Size of the selected subset of the population = 35
+
+185. Population Size: 100 for iteration 185
+Average fitness score = 29373.12
+Median fitness score = 29557
+STD of fitness scores = 4379.004119244882
+Size of the selected subset of the population = 35
+
+186. Population Size: 100 for iteration 186
+Average fitness score = 29356.16
+Median fitness score = 29557
+STD of fitness scores = 4366.624479833225
+Size of the selected subset of the population = 36
+
+187. Population Size: 100 for iteration 187
+Average fitness score = 29334.49
+Median fitness score = 29557
+STD of fitness scores = 4355.966896793362
+Size of the selected subset of the population = 36
+
+188. Population Size: 100 for iteration 188
+Average fitness score = 29320.27
+Median fitness score = 29557
+STD of fitness scores = 4342.661702658564
+Size of the selected subset of the population = 35
+
+189. Population Size: 100 for iteration 189
+Average fitness score = 29290.66
+Median fitness score = 29557
+STD of fitness scores = 4330.839497362976
+Size of the selected subset of the population = 34
+
+190. Population Size: 100 for iteration 190
+Average fitness score = 29272.92
+Median fitness score = 29557
+STD of fitness scores = 4321.154516697096
+Size of the selected subset of the population = 37
+
+191. Population Size: 100 for iteration 191
+Average fitness score = 29247.62
+Median fitness score = 29557
+STD of fitness scores = 4327.100918535633
+Size of the selected subset of the population = 37
+
+192. Population Size: 100 for iteration 192
+Average fitness score = 29232.55
+Median fitness score = 29557
+STD of fitness scores = 4319.633487012667
+Size of the selected subset of the population = 36
+
+193. Population Size: 100 for iteration 193
+Average fitness score = 29205.11
+Median fitness score = 29557
+STD of fitness scores = 4309.702391691275
+Size of the selected subset of the population = 35
+
+194. Population Size: 100 for iteration 194
+Average fitness score = 29190.23
+Median fitness score = 29557
+STD of fitness scores = 4306.445964546119
+Size of the selected subset of the population = 32
+
+195. Population Size: 100 for iteration 195
+Average fitness score = 29181.01
+Median fitness score = 29105
+STD of fitness scores = 4307.145274313418
+Size of the selected subset of the population = 33
+
+196. Population Size: 100 for iteration 196
+Average fitness score = 29156.73
+Median fitness score = 29105
+STD of fitness scores = 4289.545844565164
+Size of the selected subset of the population = 34
+
+197. Population Size: 100 for iteration 197
+Average fitness score = 29141.28
+Median fitness score = 29105
+STD of fitness scores = 4276.585275401132
+Size of the selected subset of the population = 35
+
+198. Population Size: 100 for iteration 198
+Average fitness score = 29132.52
+Median fitness score = 29105
+STD of fitness scores = 4274.122026873597
+Size of the selected subset of the population = 36
+
+199. Population Size: 100 for iteration 199
+Average fitness score = 29115.83
+Median fitness score = 29105
+STD of fitness scores = 4261.699990519267
+Size of the selected subset of the population = 38
+
+200. Population Size: 100 for iteration 200
+Average fitness score = 29101.75
+Median fitness score = 29105
+STD of fitness scores = 4254.3473555549235
+Size of the selected subset of the population = 36
+
+201. Population Size: 100 for iteration 201
+Average fitness score = 29088.0
+Median fitness score = 29105
+STD of fitness scores = 4246.506923402463
+Size of the selected subset of the population = 36
+
+202. Population Size: 100 for iteration 202
+Average fitness score = 29076.8
+Median fitness score = 29105
+STD of fitness scores = 4236.006726847703
+Size of the selected subset of the population = 35
+
+203. Population Size: 100 for iteration 203
+Average fitness score = 29064.57
+Median fitness score = 29105
+STD of fitness scores = 4222.787963771056
+Size of the selected subset of the population = 37
+
+204. Population Size: 100 for iteration 204
+Average fitness score = 29060.84
+Median fitness score = 29105
+STD of fitness scores = 4221.538397170856
+Size of the selected subset of the population = 36
+
+205. Population Size: 100 for iteration 205
+Average fitness score = 29049.81
+Median fitness score = 29097
+STD of fitness scores = 4211.212241064671
+Size of the selected subset of the population = 35
+
+206. Population Size: 100 for iteration 206
+Average fitness score = 29038.01
+Median fitness score = 29004
+STD of fitness scores = 4204.592492763361
+Size of the selected subset of the population = 36
+
+207. Population Size: 100 for iteration 207
+Average fitness score = 29026.61
+Median fitness score = 29004
+STD of fitness scores = 4199.0047712030355
+Size of the selected subset of the population = 35
+
+208. Population Size: 100 for iteration 208
+Average fitness score = 29009.99
+Median fitness score = 29004
+STD of fitness scores = 4188.447964751901
+Size of the selected subset of the population = 35
+
+209. Population Size: 100 for iteration 209
+Average fitness score = 29003.41
+Median fitness score = 29004
+STD of fitness scores = 4189.058788949223
+Size of the selected subset of the population = 35
+
+210. Population Size: 100 for iteration 210
+Average fitness score = 28985.35
+Median fitness score = 29004
+STD of fitness scores = 4191.083812419799
+Size of the selected subset of the population = 35
+
+211. Population Size: 100 for iteration 211
+Average fitness score = 28971.16
+Median fitness score = 29004
+STD of fitness scores = 4190.687872274465
+Size of the selected subset of the population = 37
+
+212. Population Size: 100 for iteration 212
+Average fitness score = 28939.68
+Median fitness score = 29004
+STD of fitness scores = 4191.058933906173
+Size of the selected subset of the population = 35
+
+213. Population Size: 100 for iteration 213
+Average fitness score = 28924.99
+Median fitness score = 29004
+STD of fitness scores = 4186.435581576154
+Size of the selected subset of the population = 35
+
+214. Population Size: 100 for iteration 214
+Average fitness score = 28906.54
+Median fitness score = 29004
+STD of fitness scores = 4174.974632282455
+Size of the selected subset of the population = 33
+
+215. Population Size: 100 for iteration 215
+Average fitness score = 28905.63
+Median fitness score = 29004
+STD of fitness scores = 4174.466502307677
+Size of the selected subset of the population = 33
+
+216. Population Size: 100 for iteration 216
+Average fitness score = 28888.32
+Median fitness score = 29004
+STD of fitness scores = 4158.726948954402
+Size of the selected subset of the population = 33
+
+217. Population Size: 100 for iteration 217
+Average fitness score = 28863.8
+Median fitness score = 29004
+STD of fitness scores = 4148.044173420344
+Size of the selected subset of the population = 33
+
+218. Population Size: 100 for iteration 218
+Average fitness score = 28846.52
+Median fitness score = 28864
+STD of fitness scores = 4132.638161188702
+Size of the selected subset of the population = 30
+
+219. Population Size: 100 for iteration 219
+Average fitness score = 28834.14
+Median fitness score = 28864
+STD of fitness scores = 4122.552524048099
+Size of the selected subset of the population = 33
+
+220. Population Size: 100 for iteration 220
+Average fitness score = 28826.29
+Median fitness score = 28864
+STD of fitness scores = 4116.472392164746
+Size of the selected subset of the population = 33
+
+221. Population Size: 100 for iteration 221
+Average fitness score = 28813.09
+Median fitness score = 28864
+STD of fitness scores = 4110.232302154802
+Size of the selected subset of the population = 32
+
+222. Population Size: 100 for iteration 222
+Average fitness score = 28805.34
+Median fitness score = 28864
+STD of fitness scores = 4105.704480009699
+Size of the selected subset of the population = 31
+
+223. Population Size: 100 for iteration 223
+Average fitness score = 28792.17
+Median fitness score = 28864
+STD of fitness scores = 4098.9220609468985
+Size of the selected subset of the population = 32
+
+224. Population Size: 100 for iteration 224
+Average fitness score = 28783.22
+Median fitness score = 28864
+STD of fitness scores = 4099.527680554964
+Size of the selected subset of the population = 32
+
+225. Population Size: 100 for iteration 225
+Average fitness score = 28767.32
+Median fitness score = 28864
+STD of fitness scores = 4095.170520690848
+Size of the selected subset of the population = 32
+
+226. Population Size: 100 for iteration 226
+Average fitness score = 28753.23
+Median fitness score = 28864
+STD of fitness scores = 4085.173133714683
+Size of the selected subset of the population = 31
+
+227. Population Size: 100 for iteration 227
+Average fitness score = 28743.77
+Median fitness score = 28864
+STD of fitness scores = 4083.4380514834593
+Size of the selected subset of the population = 32
+
+228. Population Size: 100 for iteration 228
+Average fitness score = 28728.69
+Median fitness score = 28864
+STD of fitness scores = 4076.7565036187752
+Size of the selected subset of the population = 33
+
+229. Population Size: 100 for iteration 229
+Average fitness score = 28714.71
+Median fitness score = 28864
+STD of fitness scores = 4068.162939574728
+Size of the selected subset of the population = 32
+
+230. Population Size: 100 for iteration 230
+Average fitness score = 28703.23
+Median fitness score = 28864
+STD of fitness scores = 4063.1468171451506
+Size of the selected subset of the population = 33
+
+231. Population Size: 100 for iteration 231
+Average fitness score = 28687.86
+Median fitness score = 28864
+STD of fitness scores = 4057.207072941591
+Size of the selected subset of the population = 34
+
+232. Population Size: 100 for iteration 232
+Average fitness score = 28679.37
+Median fitness score = 28864
+STD of fitness scores = 4053.3522743152944
+Size of the selected subset of the population = 34
+
+233. Population Size: 100 for iteration 233
+Average fitness score = 28659.76
+Median fitness score = 28864
+STD of fitness scores = 4050.5866070249754
+Size of the selected subset of the population = 34
+
+234. Population Size: 100 for iteration 234
+Average fitness score = 28649.91
+Median fitness score = 28864
+STD of fitness scores = 4043.3014240790403
+Size of the selected subset of the population = 34
+
+235. Population Size: 100 for iteration 235
+Average fitness score = 28629.79
+Median fitness score = 28864
+STD of fitness scores = 4022.3282500827977
+Size of the selected subset of the population = 36
+
+236. Population Size: 100 for iteration 236
+Average fitness score = 28592.92
+Median fitness score = 28602
+STD of fitness scores = 4023.1193477778716
+Size of the selected subset of the population = 37
+
+237. Population Size: 100 for iteration 237
+Average fitness score = 28584.84
+Median fitness score = 28602
+STD of fitness scores = 4017.1929561409775
+Size of the selected subset of the population = 36
+
+238. Population Size: 100 for iteration 238
+Average fitness score = 28573.17
+Median fitness score = 28602
+STD of fitness scores = 4011.5610001191267
+Size of the selected subset of the population = 35
+
+239. Population Size: 100 for iteration 239
+Average fitness score = 28554.06
+Median fitness score = 28602
+STD of fitness scores = 4011.44345118066
+Size of the selected subset of the population = 34
+
+240. Population Size: 100 for iteration 240
+Average fitness score = 28548.9
+Median fitness score = 28602
+STD of fitness scores = 4005.606206407225
+Size of the selected subset of the population = 33
+
+241. Population Size: 100 for iteration 241
+Average fitness score = 28540.03
+Median fitness score = 28602
+STD of fitness scores = 4001.8237798218297
+Size of the selected subset of the population = 31
+
+242. Population Size: 100 for iteration 242
+Average fitness score = 28526.85
+Median fitness score = 28602
+STD of fitness scores = 3987.4953212347077
+Size of the selected subset of the population = 31
+
+243. Population Size: 100 for iteration 243
+Average fitness score = 28512.07
+Median fitness score = 28602
+STD of fitness scores = 3980.5580397956537
+Size of the selected subset of the population = 30
+
+244. Population Size: 100 for iteration 244
+Average fitness score = 28493.75
+Median fitness score = 28602
+STD of fitness scores = 3974.920725656365
+Size of the selected subset of the population = 30
+
+245. Population Size: 100 for iteration 245
+Average fitness score = 28485.23
+Median fitness score = 28602
+STD of fitness scores = 3971.840429965825
+Size of the selected subset of the population = 34
+
+246. Population Size: 100 for iteration 246
+Average fitness score = 28470.62
+Median fitness score = 28602
+STD of fitness scores = 3969.012735752514
+Size of the selected subset of the population = 34
+
+247. Population Size: 100 for iteration 247
+Average fitness score = 28456.89
+Median fitness score = 28602
+STD of fitness scores = 3966.761702184692
+Size of the selected subset of the population = 35
+
+248. Population Size: 100 for iteration 248
+Average fitness score = 28442.54
+Median fitness score = 28602
+STD of fitness scores = 3965.1603465864296
+Size of the selected subset of the population = 34
+
+249. Population Size: 100 for iteration 249
+Average fitness score = 28430.77
+Median fitness score = 28602
+STD of fitness scores = 3958.600474188122
+Size of the selected subset of the population = 34
+
+250. Population Size: 100 for iteration 250
+Average fitness score = 28417.44
+Median fitness score = 28602
+STD of fitness scores = 3951.3594370044398
+Size of the selected subset of the population = 35
+
+251. Population Size: 100 for iteration 251
+Average fitness score = 28392.58
+Median fitness score = 28602
+STD of fitness scores = 3950.7553763856863
+Size of the selected subset of the population = 35
+
+252. Population Size: 100 for iteration 252
+Average fitness score = 28369.73
+Median fitness score = 28602
+STD of fitness scores = 3949.109568106346
+Size of the selected subset of the population = 35
+
+253. Population Size: 100 for iteration 253
+Average fitness score = 28355.03
+Median fitness score = 28602
+STD of fitness scores = 3949.3124716956636
+Size of the selected subset of the population = 35
+
+254. Population Size: 100 for iteration 254
+Average fitness score = 28350.36
+Median fitness score = 28602
+STD of fitness scores = 3944.149131833305
+Size of the selected subset of the population = 34
+
+255. Population Size: 100 for iteration 255
+Average fitness score = 28342.15
+Median fitness score = 28602
+STD of fitness scores = 3937.792581080949
+Size of the selected subset of the population = 33
+
+256. Population Size: 100 for iteration 256
+Average fitness score = 28331.41
+Median fitness score = 28602
+STD of fitness scores = 3928.4614103264707
+Size of the selected subset of the population = 35
+
+257. Population Size: 100 for iteration 257
+Average fitness score = 28323.31
+Median fitness score = 28602
+STD of fitness scores = 3923.580221100894
+Size of the selected subset of the population = 35
+
+258. Population Size: 100 for iteration 258
+Average fitness score = 28304.55
+Median fitness score = 28602
+STD of fitness scores = 3915.611190794452
+Size of the selected subset of the population = 35
+
+259. Population Size: 100 for iteration 259
+Average fitness score = 28284.6
+Median fitness score = 28602
+STD of fitness scores = 3923.7018492770576
+Size of the selected subset of the population = 35
+
+260. Population Size: 100 for iteration 260
+Average fitness score = 28283.42
+Median fitness score = 28602
+STD of fitness scores = 3922.6599720293902
+Size of the selected subset of the population = 34
+
+261. Population Size: 100 for iteration 261
+Average fitness score = 28270.32
+Median fitness score = 28602
+STD of fitness scores = 3923.651293415768
+Size of the selected subset of the population = 34
+
+262. Population Size: 100 for iteration 262
+Average fitness score = 28268.43
+Median fitness score = 28602
+STD of fitness scores = 3921.189093137618
+Size of the selected subset of the population = 35
+
+263. Population Size: 100 for iteration 263
+Average fitness score = 28259.82
+Median fitness score = 28602
+STD of fitness scores = 3914.6256845452044
+Size of the selected subset of the population = 35
+
+264. Population Size: 100 for iteration 264
+Average fitness score = 28251.82
+Median fitness score = 28602
+STD of fitness scores = 3909.954437668867
+Size of the selected subset of the population = 36
+
+265. Population Size: 100 for iteration 265
+Average fitness score = 28224.18
+Median fitness score = 28602
+STD of fitness scores = 3901.8729752193976
+Size of the selected subset of the population = 35
+
+266. Population Size: 100 for iteration 266
+Average fitness score = 28199.49
+Median fitness score = 28602
+STD of fitness scores = 3889.0188435588166
+Size of the selected subset of the population = 34
+
+267. Population Size: 100 for iteration 267
+Average fitness score = 28179.17
+Median fitness score = 28602
+STD of fitness scores = 3882.0716901123446
+Size of the selected subset of the population = 32
+
+268. Population Size: 100 for iteration 268
+Average fitness score = 28166.02
+Median fitness score = 28602
+STD of fitness scores = 3877.7441895509246
+Size of the selected subset of the population = 31
+
+269. Population Size: 100 for iteration 269
+Average fitness score = 28151.4
+Median fitness score = 28602
+STD of fitness scores = 3871.3518793487856
+Size of the selected subset of the population = 29
+
+270. Population Size: 100 for iteration 270
+Average fitness score = 28136.13
+Median fitness score = 28602
+STD of fitness scores = 3860.119974204497
+Size of the selected subset of the population = 30
+
+271. Population Size: 100 for iteration 271
+Average fitness score = 28129.59
+Median fitness score = 28602
+STD of fitness scores = 3862.7205310388545
+Size of the selected subset of the population = 29
+
+272. Population Size: 100 for iteration 272
+Average fitness score = 28119.92
+Median fitness score = 28602
+STD of fitness scores = 3855.973866376926
+Size of the selected subset of the population = 29
+
+273. Population Size: 100 for iteration 273
+Average fitness score = 28109.76
+Median fitness score = 28602
+STD of fitness scores = 3844.848801377571
+Size of the selected subset of the population = 29
+
+274. Population Size: 100 for iteration 274
+Average fitness score = 28100.92
+Median fitness score = 28602
+STD of fitness scores = 3840.518256483601
+Size of the selected subset of the population = 31
+
+275. Population Size: 100 for iteration 275
+Average fitness score = 28086.87
+Median fitness score = 28602
+STD of fitness scores = 3838.5205842692294
+Size of the selected subset of the population = 30
+
+276. Population Size: 100 for iteration 276
+Average fitness score = 28069.96
+Median fitness score = 28602
+STD of fitness scores = 3838.5230348785103
+Size of the selected subset of the population = 30
+
+277. Population Size: 100 for iteration 277
+Average fitness score = 28064.87
+Median fitness score = 28602
+STD of fitness scores = 3838.2008533960416
+Size of the selected subset of the population = 31
+
+278. Population Size: 100 for iteration 278
+Average fitness score = 28062.76
+Median fitness score = 28602
+STD of fitness scores = 3836.6262565862826
+Size of the selected subset of the population = 32
+
+279. Population Size: 100 for iteration 279
+Average fitness score = 28058.59
+Median fitness score = 28602
+STD of fitness scores = 3835.8450324576856
+Size of the selected subset of the population = 32
+
+280. Population Size: 100 for iteration 280
+Average fitness score = 28053.32
+Median fitness score = 28602
+STD of fitness scores = 3835.3159902478055
+Size of the selected subset of the population = 33
+
+281. Population Size: 100 for iteration 281
+Average fitness score = 28040.05
+Median fitness score = 28602
+STD of fitness scores = 3827.684252240313
+Size of the selected subset of the population = 33
+
+282. Population Size: 100 for iteration 282
+Average fitness score = 28030.28
+Median fitness score = 28602
+STD of fitness scores = 3817.9378618264177
+Size of the selected subset of the population = 32
+
+283. Population Size: 100 for iteration 283
+Average fitness score = 28017.6
+Median fitness score = 28602
+STD of fitness scores = 3806.64802574643
+Size of the selected subset of the population = 32
+
+284. Population Size: 100 for iteration 284
+Average fitness score = 28010.57
+Median fitness score = 28602
+STD of fitness scores = 3801.7691661949048
+Size of the selected subset of the population = 35
+
+285. Population Size: 100 for iteration 285
+Average fitness score = 27998.63
+Median fitness score = 28602
+STD of fitness scores = 3793.1711145348313
+Size of the selected subset of the population = 36
+
+286. Population Size: 100 for iteration 286
+Average fitness score = 27985.56
+Median fitness score = 28602
+STD of fitness scores = 3785.3635463693336
+Size of the selected subset of the population = 37
+
+287. Population Size: 100 for iteration 287
+Average fitness score = 27981.1
+Median fitness score = 28602
+STD of fitness scores = 3782.203407560415
+Size of the selected subset of the population = 36
+
+288. Population Size: 100 for iteration 288
+Average fitness score = 27977.24
+Median fitness score = 28602
+STD of fitness scores = 3778.8198524369636
+Size of the selected subset of the population = 37
+
+289. Population Size: 100 for iteration 289
+Average fitness score = 27965.9
+Median fitness score = 28602
+STD of fitness scores = 3774.561668310479
+Size of the selected subset of the population = 38
+
+290. Population Size: 100 for iteration 290
+Average fitness score = 27954.35
+Median fitness score = 28602
+STD of fitness scores = 3766.726771778426
+Size of the selected subset of the population = 36
+
+291. Population Size: 100 for iteration 291
+Average fitness score = 27941.15
+Median fitness score = 28480
+STD of fitness scores = 3769.7843637255833
+Size of the selected subset of the population = 35
+
+292. Population Size: 100 for iteration 292
+Average fitness score = 27934.38
+Median fitness score = 28480
+STD of fitness scores = 3766.70128377764
+Size of the selected subset of the population = 36
+
+293. Population Size: 100 for iteration 293
+Average fitness score = 27920.49
+Median fitness score = 28480
+STD of fitness scores = 3764.6893965404693
+Size of the selected subset of the population = 37
+
+294. Population Size: 100 for iteration 294
+Average fitness score = 27917.31
+Median fitness score = 28480
+STD of fitness scores = 3761.568933613105
+Size of the selected subset of the population = 36
+
+295. Population Size: 100 for iteration 295
+Average fitness score = 27897.68
+Median fitness score = 28480
+STD of fitness scores = 3760.251415084697
+Size of the selected subset of the population = 35
+
+296. Population Size: 100 for iteration 296
+Average fitness score = 27888.77
+Median fitness score = 28480
+STD of fitness scores = 3753.4375916813196
+Size of the selected subset of the population = 34
+
+297. Population Size: 100 for iteration 297
+Average fitness score = 27880.15
+Median fitness score = 28480
+STD of fitness scores = 3745.9440891031554
+Size of the selected subset of the population = 34
+
+298. Population Size: 100 for iteration 298
+Average fitness score = 27856.82
+Median fitness score = 28480
+STD of fitness scores = 3729.6535744562852
+Size of the selected subset of the population = 34
+
+299. Population Size: 100 for iteration 299
+Average fitness score = 27842.88
+Median fitness score = 28480
+STD of fitness scores = 3716.9499097942107
+Size of the selected subset of the population = 33
+
+300. Population Size: 100 for iteration 300
+Average fitness score = 27830.07
+Median fitness score = 28480
+STD of fitness scores = 3708.1411397386455
+Size of the selected subset of the population = 30
+
+301. Population Size: 100 for iteration 301
+Average fitness score = 27825.16
+Median fitness score = 28480
+STD of fitness scores = 3704.487324553531
+Size of the selected subset of the population = 31
+
+302. Population Size: 100 for iteration 302
+Average fitness score = 27809.24
+Median fitness score = 28480
+STD of fitness scores = 3699.937179701484
+Size of the selected subset of the population = 31
+
+303. Population Size: 100 for iteration 303
+Average fitness score = 27801.63
+Median fitness score = 28480
+STD of fitness scores = 3693.877789578783
+Size of the selected subset of the population = 32
+
+304. Population Size: 100 for iteration 304
+Average fitness score = 27798.0
+Median fitness score = 28480
+STD of fitness scores = 3689.6963111734367
+Size of the selected subset of the population = 33
+
+305. Population Size: 100 for iteration 305
+Average fitness score = 27785.62
+Median fitness score = 28480
+STD of fitness scores = 3684.2780107101066
+Size of the selected subset of the population = 33
+
+306. Population Size: 100 for iteration 306
+Average fitness score = 27772.5
+Median fitness score = 28480
+STD of fitness scores = 3669.798027910605
+Size of the selected subset of the population = 31
+
+307. Population Size: 100 for iteration 307
+Average fitness score = 27766.79
+Median fitness score = 28480
+STD of fitness scores = 3666.847539051285
+Size of the selected subset of the population = 31
+
+308. Population Size: 100 for iteration 308
+Average fitness score = 27761.27
+Median fitness score = 28480
+STD of fitness scores = 3662.0106991524576
+Size of the selected subset of the population = 31
+
+309. Population Size: 100 for iteration 309
+Average fitness score = 27759.78
+Median fitness score = 28480
+STD of fitness scores = 3661.0094114474864
+Size of the selected subset of the population = 32
+
+310. Population Size: 100 for iteration 310
+Average fitness score = 27746.14
+Median fitness score = 28480
+STD of fitness scores = 3645.5883648125396
+Size of the selected subset of the population = 32
+
+311. Population Size: 100 for iteration 311
+Average fitness score = 27741.96
+Median fitness score = 28480
+STD of fitness scores = 3640.4700965172565
+Size of the selected subset of the population = 32
+
+312. Population Size: 100 for iteration 312
+Average fitness score = 27727.65
+Median fitness score = 28480
+STD of fitness scores = 3626.978037477403
+Size of the selected subset of the population = 33
+
+313. Population Size: 100 for iteration 313
+Average fitness score = 27717.89
+Median fitness score = 28480
+STD of fitness scores = 3619.5294824944394
+Size of the selected subset of the population = 32
+
+314. Population Size: 100 for iteration 314
+Average fitness score = 27707.74
+Median fitness score = 28480
+STD of fitness scores = 3606.9043377131784
+Size of the selected subset of the population = 33
+
+315. Population Size: 100 for iteration 315
+Average fitness score = 27698.7
+Median fitness score = 28480
+STD of fitness scores = 3594.213816621927
+Size of the selected subset of the population = 32
+
+316. Population Size: 100 for iteration 316
+Average fitness score = 27689.37
+Median fitness score = 28480
+STD of fitness scores = 3591.1032284063776
+Size of the selected subset of the population = 33
+
+317. Population Size: 100 for iteration 317
+Average fitness score = 27682.61
+Median fitness score = 28480
+STD of fitness scores = 3587.7640990179416
+Size of the selected subset of the population = 33
+
+318. Population Size: 100 for iteration 318
+Average fitness score = 27673.27
+Median fitness score = 28480
+STD of fitness scores = 3577.652381482482
+Size of the selected subset of the population = 31
+
+319. Population Size: 100 for iteration 319
+Average fitness score = 27663.17
+Median fitness score = 28480
+STD of fitness scores = 3577.3775933713728
+Size of the selected subset of the population = 31
+
+320. Population Size: 100 for iteration 320
+Average fitness score = 27646.44
+Median fitness score = 28480
+STD of fitness scores = 3560.491471920156
+Size of the selected subset of the population = 31
+
+321. Population Size: 100 for iteration 321
+Average fitness score = 27632.29
+Median fitness score = 28480
+STD of fitness scores = 3555.9908286772006
+Size of the selected subset of the population = 30
+
+322. Population Size: 100 for iteration 322
+Average fitness score = 27631.34
+Median fitness score = 28480
+STD of fitness scores = 3556.0689856507383
+Size of the selected subset of the population = 33
+
+323. Population Size: 100 for iteration 323
+Average fitness score = 27627.32
+Median fitness score = 28480
+STD of fitness scores = 3551.2632661427037
+Size of the selected subset of the population = 33
+
+324. Population Size: 100 for iteration 324
+Average fitness score = 27622.96
+Median fitness score = 28480
+STD of fitness scores = 3546.2663647415106
+Size of the selected subset of the population = 33
+
+325. Population Size: 100 for iteration 325
+Average fitness score = 27606.99
+Median fitness score = 28480
+STD of fitness scores = 3524.217146381375
+Size of the selected subset of the population = 31
+
+326. Population Size: 100 for iteration 326
+Average fitness score = 27596.87
+Median fitness score = 28310
+STD of fitness scores = 3513.489941466729
+Size of the selected subset of the population = 30
+
+327. Population Size: 100 for iteration 327
+Average fitness score = 27589.13
+Median fitness score = 28310
+STD of fitness scores = 3506.4262293853
+Size of the selected subset of the population = 30
+
+328. Population Size: 100 for iteration 328
+Average fitness score = 27579.22
+Median fitness score = 28310
+STD of fitness scores = 3509.101250672991
+Size of the selected subset of the population = 31
+
+329. Population Size: 100 for iteration 329
+Average fitness score = 27572.91
+Median fitness score = 28310
+STD of fitness scores = 3503.449754704265
+Size of the selected subset of the population = 30
+
+330. Population Size: 100 for iteration 330
+Average fitness score = 27561.93
+Median fitness score = 28181
+STD of fitness scores = 3497.0499753941235
+Size of the selected subset of the population = 31
+
+331. Population Size: 100 for iteration 331
+Average fitness score = 27556.88
+Median fitness score = 28181
+STD of fitness scores = 3490.7811816528715
+Size of the selected subset of the population = 31
+
+332. Population Size: 100 for iteration 332
+Average fitness score = 27544.15
+Median fitness score = 28181
+STD of fitness scores = 3479.6083007671537
+Size of the selected subset of the population = 30
+
+333. Population Size: 100 for iteration 333
+Average fitness score = 27538.68
+Median fitness score = 28181
+STD of fitness scores = 3481.1650606361572
+Size of the selected subset of the population = 28
+
+334. Population Size: 100 for iteration 334
+Average fitness score = 27526.49
+Median fitness score = 28181
+STD of fitness scores = 3467.7038031766288
+Size of the selected subset of the population = 29
+
+335. Population Size: 100 for iteration 335
+Average fitness score = 27523.84
+Median fitness score = 27916
+STD of fitness scores = 3467.299810247365
+Size of the selected subset of the population = 29
+
+336. Population Size: 100 for iteration 336
+Average fitness score = 27505.76
+Median fitness score = 27916
+STD of fitness scores = 3463.3033775937856
+Size of the selected subset of the population = 29
+
+337. Population Size: 100 for iteration 337
+Average fitness score = 27499.9
+Median fitness score = 27916
+STD of fitness scores = 3456.8572739008496
+Size of the selected subset of the population = 31
+
+338. Population Size: 100 for iteration 338
+Average fitness score = 27495.56
+Median fitness score = 27916
+STD of fitness scores = 3453.2678077321475
+Size of the selected subset of the population = 31
+
+339. Population Size: 100 for iteration 339
+Average fitness score = 27491.7
+Median fitness score = 27916
+STD of fitness scores = 3450.4386765462245
+Size of the selected subset of the population = 32
+
+340. Population Size: 100 for iteration 340
+Average fitness score = 27482.3
+Median fitness score = 27916
+STD of fitness scores = 3443.3732594710677
+Size of the selected subset of the population = 32
+
+341. Population Size: 100 for iteration 341
+Average fitness score = 27463.93
+Median fitness score = 27916
+STD of fitness scores = 3430.353647448854
+Size of the selected subset of the population = 32
+
+342. Population Size: 100 for iteration 342
+Average fitness score = 27462.64
+Median fitness score = 27916
+STD of fitness scores = 3430.0565078244244
+Size of the selected subset of the population = 33
+
+343. Population Size: 100 for iteration 343
+Average fitness score = 27460.12
+Median fitness score = 27696
+STD of fitness scores = 3429.4122896089953
+Size of the selected subset of the population = 33
+
+344. Population Size: 100 for iteration 344
+Average fitness score = 27447.47
+Median fitness score = 27696
+STD of fitness scores = 3432.732417124259
+Size of the selected subset of the population = 32
+
+345. Population Size: 100 for iteration 345
+Average fitness score = 27432.11
+Median fitness score = 27696
+STD of fitness scores = 3415.535312747661
+Size of the selected subset of the population = 32
+
+346. Population Size: 100 for iteration 346
+Average fitness score = 27419.77
+Median fitness score = 27696
+STD of fitness scores = 3408.853576224918
+Size of the selected subset of the population = 34
+
+347. Population Size: 100 for iteration 347
+Average fitness score = 27398.48
+Median fitness score = 27696
+STD of fitness scores = 3404.387455782745
+Size of the selected subset of the population = 34
+
+348. Population Size: 100 for iteration 348
+Average fitness score = 27383.32
+Median fitness score = 27696
+STD of fitness scores = 3406.512505792575
+Size of the selected subset of the population = 32
+
+349. Population Size: 100 for iteration 349
+Average fitness score = 27367.92
+Median fitness score = 27696
+STD of fitness scores = 3407.436373580584
+Size of the selected subset of the population = 31
+
+350. Population Size: 100 for iteration 350
+Average fitness score = 27351.05
+Median fitness score = 27696
+STD of fitness scores = 3405.123662819151
+Size of the selected subset of the population = 32
+
+351. Population Size: 100 for iteration 351
+Average fitness score = 27345.14
+Median fitness score = 27696
+STD of fitness scores = 3402.7781935864514
+Size of the selected subset of the population = 32
+
+352. Population Size: 100 for iteration 352
+Average fitness score = 27334.87
+Median fitness score = 27696
+STD of fitness scores = 3395.3026602420096
+Size of the selected subset of the population = 31
+
+353. Population Size: 100 for iteration 353
+Average fitness score = 27306.64
+Median fitness score = 27696
+STD of fitness scores = 3383.849587482734
+Size of the selected subset of the population = 30
+
+354. Population Size: 100 for iteration 354
+Average fitness score = 27298.63
+Median fitness score = 27696
+STD of fitness scores = 3385.844103921592
+Size of the selected subset of the population = 26
+
+355. Population Size: 100 for iteration 355
+Average fitness score = 27296.43
+Median fitness score = 27696
+STD of fitness scores = 3384.36998972833
+Size of the selected subset of the population = 26
+
+356. Population Size: 100 for iteration 356
+Average fitness score = 27294.24
+Median fitness score = 27696
+STD of fitness scores = 3380.982390018641
+Size of the selected subset of the population = 27
+
+357. Population Size: 100 for iteration 357
+Average fitness score = 27290.05
+Median fitness score = 27696
+STD of fitness scores = 3377.724152742524
+Size of the selected subset of the population = 28
+
+358. Population Size: 100 for iteration 358
+Average fitness score = 27283.31
+Median fitness score = 27696
+STD of fitness scores = 3369.1686103772718
+Size of the selected subset of the population = 28
+
+359. Population Size: 100 for iteration 359
+Average fitness score = 27264.91
+Median fitness score = 27696
+STD of fitness scores = 3354.6672360377943
+Size of the selected subset of the population = 29
+
+360. Population Size: 100 for iteration 360
+Average fitness score = 27260.27
+Median fitness score = 27696
+STD of fitness scores = 3351.254319239622
+Size of the selected subset of the population = 30
+
+361. Population Size: 100 for iteration 361
+Average fitness score = 27256.96
+Median fitness score = 27696
+STD of fitness scores = 3348.2497460643826
+Size of the selected subset of the population = 28
+
+362. Population Size: 100 for iteration 362
+Average fitness score = 27242.24
+Median fitness score = 27696
+STD of fitness scores = 3349.0072285030465
+Size of the selected subset of the population = 27
+
+363. Population Size: 100 for iteration 363
+Average fitness score = 27238.15
+Median fitness score = 27696
+STD of fitness scores = 3344.925819035227
+Size of the selected subset of the population = 26
+
+364. Population Size: 100 for iteration 364
+Average fitness score = 27231.21
+Median fitness score = 27696
+STD of fitness scores = 3339.2767991457567
+Size of the selected subset of the population = 27
+
+365. Population Size: 100 for iteration 365
+Average fitness score = 27218.87
+Median fitness score = 27696
+STD of fitness scores = 3325.1221277943273
+Size of the selected subset of the population = 27
+
+366. Population Size: 100 for iteration 366
+Average fitness score = 27192.47
+Median fitness score = 27696
+STD of fitness scores = 3384.798707755042
+Size of the selected subset of the population = 26
+
+367. Population Size: 100 for iteration 367
+Average fitness score = 27185.65
+Median fitness score = 27696
+STD of fitness scores = 3376.6152180561053
+Size of the selected subset of the population = 27
+
+368. Population Size: 100 for iteration 368
+Average fitness score = 27177.22
+Median fitness score = 27696
+STD of fitness scores = 3373.4884339119017
+Size of the selected subset of the population = 29
+
+369. Population Size: 100 for iteration 369
+Average fitness score = 27170.7
+Median fitness score = 27696
+STD of fitness scores = 3370.9437562915236
+Size of the selected subset of the population = 28
+
+370. Population Size: 100 for iteration 370
+Average fitness score = 27164.95
+Median fitness score = 27696
+STD of fitness scores = 3372.4047571369006
+Size of the selected subset of the population = 27
+
+371. Population Size: 100 for iteration 371
+Average fitness score = 27146.9
+Median fitness score = 27696
+STD of fitness scores = 3382.4383127255905
+Size of the selected subset of the population = 27
+
+372. Population Size: 100 for iteration 372
+Average fitness score = 27141.99
+Median fitness score = 27696
+STD of fitness scores = 3377.331160483934
+Size of the selected subset of the population = 28
+
+373. Population Size: 100 for iteration 373
+Average fitness score = 27138.01
+Median fitness score = 27696
+STD of fitness scores = 3374.184889208897
+Size of the selected subset of the population = 28
+
+374. Population Size: 100 for iteration 374
+Average fitness score = 27131.4
+Median fitness score = 27696
+STD of fitness scores = 3367.657121033625
+Size of the selected subset of the population = 28
+
+375. Population Size: 100 for iteration 375
+Average fitness score = 27128.81
+Median fitness score = 27696
+STD of fitness scores = 3367.0184655528305
+Size of the selected subset of the population = 29
+
+376. Population Size: 100 for iteration 376
+Average fitness score = 27124.05
+Median fitness score = 27696
+STD of fitness scores = 3360.421941324835
+Size of the selected subset of the population = 28
+
+377. Population Size: 100 for iteration 377
+Average fitness score = 27119.37
+Median fitness score = 27696
+STD of fitness scores = 3358.396793610507
+Size of the selected subset of the population = 28
+
+378. Population Size: 100 for iteration 378
+Average fitness score = 27110.95
+Median fitness score = 27696
+STD of fitness scores = 3360.4109878965337
+Size of the selected subset of the population = 26
+
+379. Population Size: 100 for iteration 379
+Average fitness score = 27108.53
+Median fitness score = 27696
+STD of fitness scores = 3358.542253686557
+Size of the selected subset of the population = 27
+
+380. Population Size: 100 for iteration 380
+Average fitness score = 27104.44
+Median fitness score = 27696
+STD of fitness scores = 3353.6434229781867
+Size of the selected subset of the population = 27
+
+381. Population Size: 100 for iteration 381
+Average fitness score = 27104.44
+Median fitness score = 27696
+STD of fitness scores = 3353.6434229781867
+Size of the selected subset of the population = 26
+
